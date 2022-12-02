@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">s224315 Lykkehjulet</string>
+    <string name="spin_wheel">Drej Hjulet</string>
+    <string name="guess_letter">Gæt\nBogstav</string>
+    <string name="buy_letter">Køb\nBogstav</string>
+    <string name="guess_word">Gæt\nSætning</string>
+    <string name="guess_word_button">Gæt</string>
+    <string name="category">Kategori</string>
+    <string name="lifes">Liv</string>
+    <string name="points">Points</string>
+    <string name="letter_price">500 points per bogstav</string>
+    <string name="post_game_screen_won">Tillykke du vandt!</string>
+    <string name="post_game_screen_lost">Desværre du tabte</string>
+    <string name="post_game_screen_points">Din score blev </string>
+    <string name="post_game_screen_button">Spil igen</string>
+    <string name="life_lost">Du gættede forkert og har misted et liv</string>
+    <string name="wheel_text_points">Hjulet landte på</string>
+    <string name="wheel_text_broke">Du er gået falit. Dine point er blevet sat til 0</string>
+    <string name="alert_0"></string>
+    <string name="alert_1">Du gættede forkert og har misted et liv</string>
+    <string name="alert_2">Du skal dreje hjulet før du kan vælge et bogstav</string>
+    <string name="alert_3">Du har ikke nok point til at købe en Vokal</string>
+    <string name="alert_4">Voklar skal købes før hjulet er blevet drejet</string>
+    <string name="alert_5">Du skal vælge en konsunant</string>
+    <string name="alert_6">Du skal indtaste noget før du kan lave et gæt</string>
+</resources>
